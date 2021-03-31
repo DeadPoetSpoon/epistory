@@ -15,7 +15,7 @@ idna==2.9
 incremental==17.5.0
 jieba==0.42.1
 json2html==1.3.0
-lxml==4.5.1
+lxml==4.6.3
 parsel==1.6.0
 Pillow==7.1.1
 Protego==0.1.16
